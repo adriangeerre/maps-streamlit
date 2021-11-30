@@ -4,8 +4,6 @@ from mpl_toolkits.basemap import Basemap
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-from geopy.exc import GeocoderTimedOut
-from geopy.geocoders import Nominatim
 import json
 import random
 from PIL import Image
